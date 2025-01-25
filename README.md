@@ -10,7 +10,9 @@ use ```https://github.com/Demo-projects-classes/git-project.git``` to clone the 
 
 **Authentication process with git (repo)**
 ``git remote set-url origin https://github.com/Demo-projects-classes/git-project.git```
+
 ``git remote -v```
+
 ```git push origin main```
 Username for 'https://github.com': AAichaGit
 Password for 'https://AAichaGit@github.com': (P.A.T)
