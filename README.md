@@ -7,3 +7,11 @@ use ```https://github.com/Demo-projects-classes/git-project.git``` to clone the 
 **git checkout -b feature** to switch to a newly  created branch **feature**
 
 **git checkout main** to switch to branch main
+
+**Authentication process with git (repo)**
+``git remote set-url origin https://github.com/Demo-projects-classes/git-project.git```
+``git remote -v```
+```git push origin main```
+Username for 'https://github.com': AAichaGit
+Password for 'https://AAichaGit@github.com': (P.A.T)
+
