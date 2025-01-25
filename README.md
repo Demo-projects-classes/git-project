@@ -4,4 +4,5 @@ use ```https://github.com/Demo-projects-classes/git-project.git``` to clone the 
 
 **MERGE CONFLICT** = is a situation whereby two different developpers make changes [in the same branch, same file, same ligne of code] and git does not know what changes to take into consideration.
 
-**git checkout -b feature** to stwich to a newly  created branch **feature**
+**git checkout -b feature** to switch to a newly  created branch **feature**
+**git checkout main** to switch to branch main
