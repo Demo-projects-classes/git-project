@@ -18,6 +18,7 @@ Username for 'https://github.com': AAichaGit
 Password for 'https://AAichaGit@github.com': (P.A.T)
 
 **RESOLVING A MERGE CONFLICT**
+
 ```git pull -r```
 
 ```vi``` conflicted file and make the change
