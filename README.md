@@ -29,3 +29,5 @@ Password for 'https://AAichaGit@github.com': (P.A.T)
 
 ```git rebase --continue```
 
+```git push```
+
