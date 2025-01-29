@@ -17,7 +17,7 @@ use ```https://github.com/Demo-projects-classes/git-project.git``` to clone the 
 
 ```git push origin main```
 Username for 'https://github.com': AAichaGit
-Password for 'https://AAichaGit@github.com': (P.A.T)
+Password for 'https://AAichaGit@github.com': (Personal.Access.Token)
 
 **RESOLVING A MERGE CONFLICT**
 
